@@ -2,4 +2,4 @@
 
 [https://www.pipecraft.net/](https://www.pipecraft.net/)
 
-[pipecraft-net.github.io](pipecraft-net.github.io)
+[https://pipecraft-net.github.io](https://pipecraft-net.github.io)
